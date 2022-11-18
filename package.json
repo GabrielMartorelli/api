@@ -1,0 +1,19 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "uma api node com mongodb e jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMartorelli/api.git"
+  },
+  "author": "Gabriel Martorelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMartorelli/api/issues"
+  },
+  "homepage": "https://github.com/GabrielMartorelli/api#readme"
+}
