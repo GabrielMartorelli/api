@@ -2,6 +2,7 @@ const app = require('@app');
 const config = require('@config');
 
 module.exports = (err) => {
+  console.clear();
   if (err) {
     console.log('Erro ao conectar no banco de dados');
   }
