@@ -19,7 +19,8 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "module-alias": "^2.2.2"
+    "module-alias": "^2.2.2",
+    "mongoose": "^6.7.2"
   },
   "devDependencies": {
     "eslint": "^8.27.0",
@@ -30,6 +31,9 @@
     "@": "src",
     "@app": "src/app.js",
     "@config": "src/config",
+    "@helper": "src/helper",
+    "@model": "src/model",
+    "@service": "src/service",
     "@controller": "src/controller"
   }
 }
